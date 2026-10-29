@@ -11,7 +11,7 @@ The game runs on your own computer in your web browser. It takes about 5 minutes
 
 You need:
 
-- The zip file **rickdiculous-adventure-2026-10-29.zip** (ask Topher for it)
+- The zip file **rickdiculous-adventure-2026-10-29.zip** 
 - Chrome, Edge or Safari
 - Python 3 (free; the steps below show how to get it)
 - An Xbox controller for two-player air support (optional for solo)
