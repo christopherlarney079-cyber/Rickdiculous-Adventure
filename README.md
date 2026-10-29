@@ -3,7 +3,7 @@ For Friends
 
 # How to Play Rickdiculous Adventure
 
-Oct 29, 2026 · @Sir
+Oct 29, 2026
 
 ## Before you start
 
